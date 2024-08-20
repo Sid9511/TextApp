@@ -1,6 +1,13 @@
 
 # **TextTools**
 
+### **Live Site**
+Check out the live version of the app [TextTools](https://sid9511.github.io/TextApp/).
+
+## **Tech Stack**
+- **Frontend**: HTML, CSS, JavaScript, React.js
+
+
 ## **Description**
 TextTools is a versatile text modification app developed using React.js. Created during a 3-month Front-end Developer internship, this app focuses on providing powerful text editing features. TextTools comes with 5 key functionalities:
 
@@ -32,10 +39,6 @@ For building the app:
 npm run build
 ```
 
-### **Live Site**
-Check out the live version of the app [TextTools](https://sid9511.github.io/TextApp/).
 
-## **Tech Stack**
-- **Frontend**: HTML, CSS, JavaScript, React.js
 
 
