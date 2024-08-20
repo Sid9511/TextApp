@@ -21,16 +21,16 @@ Throughout the project, over 2,000 lines of clean, maintainable code were writte
 2. Navigate to the project directory.
 3. Run the following commands:
 
-\`\`\`bash
+```bash
 npm install
 npm run start
-\`\`\`
+```
 
 For building the app:
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ### **Live Site**
 Check out the live version of the app [TextTools](https://sid9511.github.io/TextApp/).
